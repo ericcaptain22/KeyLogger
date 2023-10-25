@@ -4,7 +4,6 @@ An Awesome keylogger for Windows.
 **Table of Contents**
 1. [Introduction](#introduction) 
 2. [Get Started](#get-started)
-3. [Keylogging](#keylogging)
 
 ## Introduction
 Recording the keys struck on a keyboard, commonly referred to as keystroke logging or keyboard capturing, is typically a covert action that the person using the keyboard is unaware that their actions are being monitored. This type of surveillance has the capability to record every keystroke made on that system.
